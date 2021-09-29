@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<html>
+<h1><center><font color='#daa520'>BIGG BOSS 5</font></center></h1>
+
+<div class="split left">
+ <div style ="float:left;width:50%">
+<style>
+  body {
+    background-image: url('i1.jpg');
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+    background-size: cover;
+  }
+</style>
+<H1></H1>
+<center><img src="sunny.jpg" alt ='ok' style="width:400px;height:350px"></center>
+<h3 style="text-align: center;"><font face='cursive' color='#daa520'>VJ SUNNY</font></h3>
+     </div>
+</div>
+<style>
+
+</style>
+
+<div class="split right">
+  <div style ="float:left;width:50%">
+
+<style>
+table,th,td{
+  border:1px solid rgb(117, 109, 36);
+}
+</style>
+
+<body>
+<H1></H1>
+<table style="width:70%">
+
+<tr>
+<th><font face='cursive' color='#daa520'>NAME</font></th>
+<th><font face='cursive' color='#daa520'>ARUN REDDY (VJ SUNNY)</font></th>
+</tr>
+<tr>
+<td><font face='cursive' color='#daa520'>PROFESSION</font></th>
+<td><font face='cursive' color='#daa520'>INDIAN TV & FILM ACTRESS</font></td>
+</tr>
+<tr>
+<td><font face='cursive' color='#daa520'>DATE OF BIRTH</font></td>
+<td><font face='cursive' color='#daa520'>17TH AUGUST 1989</font></td>
+</tr>
+<tr>
+  <td><font face='cursive' color='#daa520'>PLACE OF BIRTH</font></td>
+  <td><font face='cursive' color='#daa520'>KARIMNAGAR, TELANGANA, INDIA</font></td>
+  </tr>
+<tr>
+<td><font face='cursive' color='#daa520'>EDUCATION</font></td>
+<td><font face='cursive' color='#daa520'>B.COM</font></td>
+</tr>
+<tr>
+<td><font face='cursive' color='#daa520'>MARITAL STATUS</font></td>
+<td><font face='cursive' color='#daa520'>UNMARRIED</font></td>
+</tr>
+<tr>
+  <td><font face='cursive' color='#daa520'>DESCRIPTION</font></td>
+  <td><font face='cursive' color='#daa520'>VJ SUNNY IS AN INDIAN TELEVISION ACTOR, WHO HAS WORKED PREDOMINANTLY 
+      IN TELUGU INDUSTRY. VJ SUNNY ACTED IN POPULAR SERIALS LIKE KALYANA VAIBHOGAM.</font></td>
+  </tr>
+
+</html>
