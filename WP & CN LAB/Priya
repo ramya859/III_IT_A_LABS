@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html>
+<h1><center><font color='#daa520'>BIGG BOSS 5</font></center></h1>
+
+<div class="split left">
+ <div style ="float:left;width:50%">
+<style>
+  body {
+    background-image: url('i1.jpg');
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+    background-size: cover;
+  }
+</style>
+<H1></H1>
+<center><img src="priya.jpg" alt ='ok' style="width:400px;height:350px"></center>
+<h3 style="text-align: center;"><font face='cursive' color='#daa520'>MAMILLA SHAILAJA PRIYA</font></h3>
+     </div>
+</div>
+<style>
+
+</style>
+
+<div class="split right">
+  <div style ="float:left;width:50%">
+
+<style>
+table,th,td{
+  border:1px solid rgb(117, 109, 36);
+}
+</style>
+
+<body>
+<H1></H1>
+<table style="width:90%">
+
+<tr>
+<th><font face='cursive' color='#daa520'>NAME</font></th>
+<th><font face='cursive' color='#daa520'>MAMILLA SHAILAJA PRIYA (PRIYA)</font></th>
+</tr>
+<tr>
+<td><font face='cursive' color='#daa520'>PROFESSION</font></th>
+<td><font face='cursive' color='#daa520'>INDIAN MOVIE ARTIST</font></td>
+</tr>
+<tr>
+<td><font face='cursive' color='#daa520'>DATE OF BIRTH</font></td>
+<td><font face='cursive' color='#daa520'>20TH MAY 1978</font></td>
+</tr>
+<tr>
+  <td><font face='cursive' color='#daa520'>PLACE OF BIRTH</font></td>
+  <td><font face='cursive' color='#daa520'>BAPATLA, ANDHRA PRADESH, INDIA</font></td>
+  </tr>
+<tr>
+<td><font face='cursive' color='#daa520'>EDUCATION</font></td>
+<td><font face='cursive' color='#daa520'>BACHELOR OF ARTS</font></td>
+</tr>
+<tr>
+<td><font face='cursive' color='#daa520'>MARITAL STATUS</font></td>
+<td><font face='cursive' color='#daa520'>MARRIED - MVS KISHORE</font></td>
+</tr>
+<tr>
+    <td><font face='cursive' color='#daa520'>CHILDREN</font></td>
+    <td><font face='cursive' color='#daa520'>SON - NISCHAY</font></td>
+    </tr>
+<tr>
+  <td><font face='cursive' color='#daa520'>DESCRIPTION</font></td>
+  <td><font face='cursive' color='#daa520'>MAMILLA SHAILAJA PRIYA, POPULARLY KNOWN AS PRIYA, IS AN INDIAN
+      ACTRESS. WHO HAS WORKED PREDOMINANTLY IN TELUGU FILM AND TELEVISION INDUSTRY. SHE MADE HER ACTING 
+      DEBUT IN 1998 WITH MOVIE MASTER WHICH FEATURED CHIRANJEEVI. SHE HAS WON THE NANDI AWARD PRESENTED BY THE
+      GOVERNMENT OF ANDHRA PRADESH FOR HER ROLE IN THIS SERIAL PRIYA SAKSHI.</font></td>
+  </tr>
+
+</html>
