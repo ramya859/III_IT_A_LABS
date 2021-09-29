@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+<html>
+<h1><center><font color='#daa520'>BIGG BOSS 5</font></center></h1>
+
+<div class="split left">
+ <div style ="float:left;width:50%">
+<style>
+  body {
+    background-image: url('i1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+</style>
+<center><img src="anee.jpg" alt ='ok' style="width:400px;height:350px"></center>
+<h3 style="text-align: center;"><font face='cursive' color='#daa520'>ANEE MASTER</font></h3>
+     </div>
+</div>
+<style>
+
+</style>
+
+<div class="split right">
+  <div style ="float:left;width:50%">
+
+<style>
+table,th,td{
+  border:1px solid rgb(117, 109, 36);
+}
+</style>
+
+<body>
+<H1></H1>
+<table style="width:70%">
+
+<tr>
+<th><font face='cursive' color='#daa520'>NAME</font></th>
+<th><font face='cursive' color='#daa520'>ANEE MASTER</font></th>
+</tr>
+<td><font face='cursive' color='#daa520'>PROFESSION</font></th>
+<td><font face='cursive' color='#daa520'>INDIAN CHOREOGRAPHER</font></td>
+</tr>
+<tr>
+<td><font face='cursive' color='#daa520'>DATE OF BIRTH</font></td>
+<td><font face='cursive' color='#daa520'>1983</font></td>
+</tr>
+<tr>
+  <td><font face='cursive' color='#daa520'>PLACE OF BIRTH</font></td>
+  <td><font face='cursive' color='#daa520'>DARJEELING, WEST BENGAL, INDIA</font></td>
+  </tr>
+<tr>
+<td><font face='cursive' color='#daa520'>EDUCATION</font></td>
+<td><font face='cursive' color='#daa520'>10THs</font></td>
+</tr>
+<tr>
+<td><font face='cursive' color='#daa520'>MARITAL STATUS</font></td>
+<td><font face='cursive' color='#daa520'>MARRIED - (PRABHU)</font></td>
+</tr>
+<tr>
+  <td><font face='cursive' color='#daa520'>CHILDREN</font></td>
+  <td><font face='cursive' color='#daa520'>SON - (NIKSHEP)</font></td>
+  </tr>
+<tr>
+  <td><font face='cursive' color='#daa520'>DESCRIPTION</font></td>
+  <td><font face='cursive' color='#daa520'>ANEE MASTER IS A FAMOUS INDIAN CHOREOGRAPHER. 
+    WHEN SHE WAS 13, SHE WENT TO THE GEMINI TV DANCE PROGRAM & ALSO THE WINNER OF THE DANCE
+    BABY DANCE.</font></td>
+  </tr>
+
+</html>
